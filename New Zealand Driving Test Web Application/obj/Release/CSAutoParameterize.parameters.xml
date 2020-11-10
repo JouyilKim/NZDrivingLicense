@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ConnectionString1-Web.config Connection String" description="ConnectionString1 Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:ch0005649server.database.windows.net,1433;Initial Catalog=NZDT;Persist Security Info=False;User ID=ch0005649;Password=Gx660ati5870!@#;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\admin\\Desktop\\New\ Zealand\ Driving\ Test\ Web\ Application\\New\ Zealand\ Driving\ Test\ Web\ Application\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ConnectionString1']/@connectionString" />
+  </parameter>
+</parameters>
